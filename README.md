@@ -1,3 +1,3 @@
 # This is the git-101 read me file.
-
+### git init commit status bit 
 enjoy...
