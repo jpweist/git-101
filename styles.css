@@ -5,3 +5,7 @@ h1 {
 p {
   border: 1pt solid darkblue;
 }
+
+.button {
+  padding: 1em;
+}
